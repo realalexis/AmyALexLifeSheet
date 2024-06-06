@@ -1,4 +1,6 @@
 # AmyALexLifeSheet
-- MVP d'un projet de visualisation de données en cours.
-- collaborateurs: @realalexis & @annatehiva.
-
+Site de visualisation de données sous forme de graphiques en cours de développement.
+Projet non-scolaire collaboratif: 2 membres (@realalexis & @annatehiva)
+Technos front: React, Typescript, Recharts.js(graphiques)
+Technos back: Spring Boot, Hibernate
+Bdd: PostgreSQL
